@@ -106,4 +106,5 @@ Steps Involved:
 6. Modelling
 
 Conclusion:
+
 The given dataset contains the large number of features on which house price depends ,we will be using Ridge Regression,Lasso Regression,Elastic Net Regression and Gradient Boosting Regression for prediction.Using the mean of these algorithm helps to predict the house price more closely. 
